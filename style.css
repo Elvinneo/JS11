@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+
+}
+body{
+    background-color: rgb(240, 223, 204);
+}
+.esas{
+    font-size:20px;
+    margin:1% 2%;
+    width: 600px;
+    position: relative;
+
+}
+input{
+    height: 30px;
+    font-size: 20px;
+}
+button{
+    padding:5px;
+    font-size: 15px;
+}
+.money{
+    width: 100%;
+}
+.moneys{
+    width: 50%;
+}
+img{
+    width: 250px;
+    height: 100px;
+}
